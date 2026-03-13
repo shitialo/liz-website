@@ -6,3 +6,5 @@
   NODE_VERSION = "20"
   CI = "false"
 
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
