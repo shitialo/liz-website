@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://https://lizwakesho.co.ke
+
+# Sitemaps
+Sitemap: https://https://lizwakesho.co.ke/sitemap.xml
