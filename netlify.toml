@@ -5,4 +5,5 @@
 [build.environment]
   NODE_VERSION = "20"
   NEXT_PRIVATE_LOCAL_WEBPACK = "true"
+  CI = "false"
 

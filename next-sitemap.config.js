@@ -1,6 +1,6 @@
 /** @type {import('next-sitemap').IConfig} */
 module.exports = {
-  siteUrl: process.env.SITE_URL || 'https://https://lizwakesho.co.ke',
+  siteUrl: process.env.SITE_URL || 'https://lizwakesho.co.ke',
   generateRobotsTxt: true, // Generates robots.txt automatically
   sitemapSize: 5000,
   changefreq: 'daily',
